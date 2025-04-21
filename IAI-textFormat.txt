@@ -1,0 +1,49 @@
+متن عادی
+:::
+### این یک عنوان سطح 3 است
+:::
+```javascript
+console.log('سلام دنیا');
+```
+:::
+**این یک متن پررنگ است**
+::::::
+1. این یک مورد شماره‌دار است
+:::
+2. این یک مورد شماره‌دار است
+:::
+```python
+message = 'hello world!'
+print(message);
+```
+:::
+```c
+#include <iostream>
+
+int main() {
+    std::cout << "hello world!" << std::endl;
+    return 0;
+}
+```
+:::
+- این یک مورد در لیست است
+:::
+این یک مثال از `coode` است.
+::::::
+[وب‌سایت من](https://example.com)
+::::::
+img src="https://raw.githubusercontent.com/ghasemarianpour/iai/refs/heads/main/poster.png" alt="IAI poster" width="80"
+:::
+@@@ این یک متن وسط چین شده است.
+:::
+*** This is a left align text.
+::::::
+*fa-solid fa-check-circle : متن
+::::::
+*fa-solid fa-check-square : متن
+::::::
+*fa-solid fa-exclamation-circle : متن
+::::::
+*fa-solid fa-exclamation-triangle : متن
+::::::
+%% این متنی است که باید درون textBorder قرار بگیرد.
