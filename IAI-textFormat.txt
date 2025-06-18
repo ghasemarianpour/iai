@@ -32,7 +32,7 @@ int main() {
 ::::::
 [وب‌سایت من](https://example.com)
 ::::::
-img src="https://raw.githubusercontent.com/ghasemarianpour/iai/refs/heads/main/poster.png" alt="IAI poster"
+img src="https://raw.githubusercontent.com/ghasemarianpour/iai/refs/heads/main/poster.png" alt="IAI poster" width="50"
 :::
 @@@ این یک متن وسط چین شده است.
 :::
